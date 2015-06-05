@@ -1,0 +1,5 @@
+build
+bin/*
+src/src_update.sh
+include/inc_update.sh
+all_update.sh
